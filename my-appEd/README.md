@@ -1,2 +1,2 @@
-# calidad2021-2
+# Parcial2-calidad
 Class QA SW
